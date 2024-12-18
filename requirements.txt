@@ -4,4 +4,4 @@ python-dotenv
 langchain
 pyPDF2
 faiss-cpu
-langchain_google_genaip
+
